@@ -8,14 +8,17 @@ Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026: To i
 <div align="center">
   <img src="[Urban Mobility/boxplot_jams_delay.png]" alt="Boxplot jams-delay" width="80%" />
 </div>
+
 <br>
 
 <div align="center">
   <img src="[Urban Mobility/pib_per_capita.png]" alt="PIB per cápita" width="80%" />
 </div>
+
 <br>
 
 <div align="center">
   <img src="[Urban Mobility/jams_economy.png]" alt="Jams-Economy" width="80%" />
 </div>
+
 <br>
