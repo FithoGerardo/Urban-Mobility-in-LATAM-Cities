@@ -1,4 +1,7 @@
 # Urban-Mobility-in-LATAM-Cities
+
+[Go back to the portfolio](https://fithogerardo.github.io/Gerardos_Portfolio/)
+
 Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026: To identify which cities to invest in transportation infrastructure in order to improve productivity and population well-being.
 * **Objective:** To identify which cities to invest in transportation infrastructure in order to improve productivity and population well-being.
 * **Data:** A unique, curated dataset was built from two different sources, applying data cleaning, standardization, and validation processes to heterogeneous variables.
@@ -41,3 +44,7 @@ Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026: To i
 - Data Validation (Santiago): An anomaly was detected in Santiago de Chile’s GDP data (approximately $2,277), which is suspiciously low given the country’s reality; it is recommended to audit the original source before making decisions about this city.
 
 - Benchmarking with Montevideo: Study Montevideo’s urban planning policies to understand how it maintains high income levels with minimal vehicular friction.
+
+
+[Go back to the portfolio](https://fithogerardo.github.io/Gerardos_Portfolio/)
+
