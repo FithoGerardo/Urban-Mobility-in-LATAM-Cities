@@ -45,6 +45,12 @@ Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026: To i
 
 - Benchmarking with Montevideo: Study Montevideo’s urban planning policies to understand how it maintains high income levels with minimal vehicular friction.
 
+---
+
+## Author
+
+Gerardo Olmedo – Data Analyst
+---
 
 [Go back to the portfolio](https://fithogerardo.github.io/Gerardos_Portfolio/)
 
