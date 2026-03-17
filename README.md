@@ -50,6 +50,7 @@ Urban Mobility and Economic Productivity in LATAM Cities | Triple Ten 2026: To i
 ## Author
 
 Gerardo Olmedo – Data Analyst
+
 ---
 
 [Go back to the portfolio](https://fithogerardo.github.io/Gerardos_Portfolio/)
